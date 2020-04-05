@@ -3,6 +3,9 @@
 @import './reset.css';
 
 @import './components/btn.css';
+@import './components/card.css';
 
 @import './containers/header.css';
 @import './containers/presentation.css';
+@import './containers/techs.css';
+@import './containers/footer.css';
